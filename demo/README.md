@@ -17,6 +17,7 @@ uView UI，是[uni-app](https://uniapp.dcloud.io/)生态优秀的UI框架，全�
 - 众多的常用页面和布局，让您专注逻辑，事半功倍
 - 详尽的文档支持，现代化的演示效果
 - 按需引入，精简体积
+- xjdemo
 
 
 ## 安装
